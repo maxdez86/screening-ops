@@ -8,7 +8,7 @@ http://52.87.208.213:3000/dashboard/35-ticketing-overview
 
 username: maxreis86@gmail.com
 
-password: z_PiKN1Pl4CrD6-new
+password: z_PiKN1Pl4CrD6-new-2
 
 # AWS CDK Data Platform
 
